@@ -1,2 +1,2 @@
-# daily-algopractice
+# algorithmic-labs
 daily-algo-practice
